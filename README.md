@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   </div>
 <br>
 <br>
+<br>
 <div id="badges" align = "center">
 
   <a href="https://www.linkedin.com/in/saba-sarwar/">
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<h2>👩‍💻 Tech Stack</h2>
+## 👩‍💻 Tech Stack
 
 <h3>Languages and Tools: 
 <br>
